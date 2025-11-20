@@ -1,8 +1,4 @@
-# U7_Research-List
-3DGS Segmentation
-
-# 🚀 3DGS Research Collection
-這是我整理的 3D Gaussian Splatting 相關文獻，專注於 Feed-Forward 與 Open-Vocabulary Semantic Segmentation。
+# 3DGS Segmentation
 
 ## 📌 Table of Contents
 - [Feed-Forward 3DGS Open-vocab Seg](#-feed-forward-3dgs-open-vocab-seg)
