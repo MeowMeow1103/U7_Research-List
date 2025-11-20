@@ -1,4 +1,4 @@
-<img width="164" height="24" alt="image" src="https://github.com/user-attachments/assets/072fda37-e4cd-46bf-bbef-c1823f9d765b" /># 3DGS Segmentation
+# 3DGS Segmentation
 
 ## 📌 Table of Contents
 - [Feed-Forward 3DGS Open-vocab Seg](#-feed-forward-3dgs-open-vocab-seg)
