@@ -61,7 +61,7 @@
 
 ### [5] LangSplatV2: High-dimensional 3D Language Gaussian Splatting with 450+ FPS
 - **Venue:** NeurIPS 2025
-- **Links:** [PDF](#)
+- **Links:** [PDF](https://openreview.net/pdf?id=02ymnxlypN)
 
 ### [6] OpenGaussian: Towards Point-Level 3D Gaussian-based Open Vocabulary Understanding
 - **Venue:** NeurIPS 2024
@@ -69,24 +69,24 @@
 
 ### [7] Dr. Splat: Directly Referring 3D Gaussian Splatting via Direct Language Embedding Registration
 - **Venue:** CVPR 2025
-- **Links:** [PDF](#)
+- **Links:** [PDF](https://arxiv.org/pdf/2411.15183.pdf)
 
 ### [8] Open-Vocabulary 3D Semantic Segmentation with Foundation Models
 - **Venue:** CVPR 2024
-- **Links:** [PDF](#)
+- **Links:** [PDF](https://arxiv.org/pdf/2405.15346.pdf)
 
 ### [9] AGO: Adaptive Grounding for Open World 3D Occupancy Prediction
 - **Venue:** ICCV 2025
 - **Links:** [PDF](https://arxiv.org/pdf/2405.15499.pdf)
 
 ### [10] FMGS: Foundation Model Embedded 3D Gaussian Splatting for Holistic 3D Scene Understanding
-- **Venue:** IJCV 2024
+- **Venue:** CVPR 2024
 - **Links:** [PDF](https://arxiv.org/pdf/2401.01970.pdf)
 
 ### [11] Lifting by Gaussians: A Simple, Fast and Flexible Method for 3D Instance Segmentation
 - **Venue:** (Under Review)
-- **Links:** [PDF](#)
+- **Links:** [PDF](https://openreview.net/pdf?id=Xw42Dq9L7z)
 
 ### [12] 3D VISION-LANGUAGE GAUSSIAN SPLATTING
 - **Venue:** ICLR 2025
-- **Links:** [PDF](#)
+- **Links:** [PDF](https://openreview.net/pdf?id=pG4x0a1L5b)
