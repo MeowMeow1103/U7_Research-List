@@ -12,7 +12,7 @@
 - **Venue:** ICCV 2025
 - **Links:** [PDF](https://arxiv.org/pdf/2503.18052.pdf)
 
-### [2] SceneSplat++: A Large Dataset and Comprehensive Benchmark for Language Gaussian Splatting
+### ✅[2] SceneSplat++: A Large Dataset and Comprehensive Benchmark for Language Gaussian Splatting
 - **Venue:** OpenReview 2025
 - **Links:** [PDF](https://openreview.net/pdf?id=02ymnxlypN)
 
@@ -24,7 +24,7 @@
 - **Venue:** arXiv 2024
 - **Links:** [PDF](https://arxiv.org/pdf/2412.16932.pdf)
 
-### [5] SemanticSplat: Feed-Forward 3D Scene Understanding with Language-Aware Gaussian Fields
+### ✅[5] SemanticSplat: Feed-Forward 3D Scene Understanding with Language-Aware Gaussian Fields
 - **Venue:** arXiv 2025
 - **Links:** [PDF](https://arxiv.org/pdf/2506.09565.pdf)
 
@@ -44,19 +44,19 @@
 
 ## 😸 Per-Scene 3DGS Open-vocab Segmentation
 
-### [1] LangSplat: 3D Language Gaussian Splatting
+### ✅[1] LangSplat: 3D Language Gaussian Splatting
 - **Venue:** CVPR 2024
 - **Links:** [PDF](https://arxiv.org/pdf/2312.16084.pdf)
 
-### [2] Feature 3DGS: Supercharging 3D Gaussian Splatting to Enable Distilled Feature
+### ✅[2] Feature 3DGS: Supercharging 3D Gaussian Splatting to Enable Distilled Feature
 - **Venue:** CVPR 2024
 - **Links:** [PDF](https://arxiv.org/pdf/2404.13213.pdf)
 
-### [3] LEGaussians: Language Embedded 3D Gaussians for Open-Vocabulary Scene Understanding
+### ✅[3] LEGaussians: Language Embedded 3D Gaussians for Open-Vocabulary Scene Understanding
 - **Venue:** CVPR 2024
 - **Links:** [PDF](https://arxiv.org/pdf/2404.07903.pdf)
 
-### [4] Gaussian Grouping: Segment and Edit Anything in 3D Scenes
+### ✅[4] Gaussian Grouping: Segment and Edit Anything in 3D Scenes
 - **Venue:** ECCV 2024
 - **Links:** [PDF](https://arxiv.org/pdf/2312.00732.pdf)
 
@@ -68,7 +68,7 @@
 - **Venue:** NeurIPS 2024
 - **Links:** [PDF](https://arxiv.org/pdf/2406.00360.pdf)
 
-### [7] Dr. Splat: Directly Referring 3D Gaussian Splatting via Direct Language Embedding Registration
+### ✅[7] Dr. Splat: Directly Referring 3D Gaussian Splatting via Direct Language Embedding Registration
 - **Venue:** CVPR 2025
 - **Links:** [PDF](https://arxiv.org/pdf/2502.16652.pdf)
 
@@ -88,7 +88,7 @@
 - **Venue:** WACV 2025
 - **Links:** [PDF](https://arxiv.org/pdf/2502.00173.pdf)
 
-### [12] 3D VISION-LANGUAGE GAUSSIAN SPLATTING
+### ✅[12] 3D VISION-LANGUAGE GAUSSIAN SPLATTING
 - **Venue:** ICLR 2025
 - **Links:** [PDF](https://openreview.net/pdf?id=pG4x0a1L5b)
 
