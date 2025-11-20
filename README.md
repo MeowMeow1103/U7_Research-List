@@ -8,7 +8,7 @@
 
 ## 😸 Feed-Forward 3DGS Open-vocab Segmentation
 
-### [1] SceneSplat: Gaussian Splatting-based Scene Understanding with Vision-Language Pretraining
+### ✅[1] SceneSplat: Gaussian Splatting-based Scene Understanding with Vision-Language Pretraining
 - **Venue:** ICCV 2025
 - **Links:** [PDF](https://arxiv.org/pdf/2503.18052.pdf)
 
